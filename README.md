@@ -32,3 +32,13 @@ flowchart LR
   d2 --> c
 
 ```
+
+```mermaid
+sequenceDiagram
+    Verb->>+Adverb: Work it
+    Adverb->>-Verb: Harder
+    Verb->>+Adverb: Make it
+    Adverb->>-Verb: Better
+    Verb->>+Adverb: Do it
+    Adverb->>-Verb: Faster
+```
