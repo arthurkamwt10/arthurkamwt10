@@ -1,7 +1,7 @@
 ```mermaid
 
 flowchart LR
-  s(wait)
+  s(sleep)
   c(coffee)
 
   d0(investigate)
